@@ -1,0 +1,27 @@
+.header
+{
+  text-align: center;
+  color: blue;
+}
+.list
+{
+  font-size: large;
+  color: green;
+}
+.main
+{
+  text-align: left;
+  font-size: small;
+  color: red;
+}
+.end
+{
+  font-size: large;
+  color: cyan;
+  text-align: center;
+}
+.sports
+{
+  font-size: medium;
+  color: black;
+}
